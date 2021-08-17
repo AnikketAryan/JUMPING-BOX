@@ -6,7 +6,7 @@ var music;
 function preload(){
     // load sound here
     music = loadSound("music.mp3")
-
+}
 
 function setup(){
     canvas = createCanvas(800,600);
